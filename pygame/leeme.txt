@@ -1,0 +1,25 @@
+instrucciones
+este comprimido contiene 
+los pngs jpgs del juego y 
+su script "main5.py"
+convertido a .exe con pyinstaller
+video tutorial en:
+https://www.youtube.com/watch?v=fGM9Zj7vrBo
+actualizado con tutoria de "Deepseek"
+
+--------------------------------------------------------------
+instalar python desde python.org 
+instalar pygame
+desde cmd ejecutar "pip install pygame" (windows)
+desde esta ubicacion
+en la barra de url del navegador archivos escribir "cmd" y darle enter
+luego tipear python seguido del script "main5.py" +intro
+
+
+-------------------------------------------------------------
+desde linux compilar e instalar python
+pip install pygame desde la terminal
+abrir terminal en la ubicacion del archivo
+escribir "python main5.py" + intro
+
+---------------------------------------------------------------
